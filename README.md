@@ -2,8 +2,4 @@
 
 ## About
 
-what this is...
-
-## Instructors
-
-Who we are ...
+Code from the Spring Bolashak Beginner Python Data Science workshop series
